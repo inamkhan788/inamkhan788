@@ -18,7 +18,7 @@ Get in Touch
 Feel free to reach out if you want to collaborate on a project, have any questions, or just want to connect!
 
 Email: inam98831@gmail.com
-LinkedIn: Inamkhann
+LinkedIn: https://linkedIn.com/in/Inamkhann
 Twitter: @inamkhan1823005
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inamkhan788&label=Profile%20views&color=0e75b6&style=flat" alt="inamkhan788" /> </p>
